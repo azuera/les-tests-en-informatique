@@ -4,7 +4,7 @@
 
 - **Un test est un ensemble de cas à tester (état de l'objet à tester avant exécution du test, actions ou données en entrée, valeurs ou observations attendues, et état de l'objet après exécution), éventuellement accompagné d'une procédure d'exécution (séquence d'actions à exécuter). Il est lié à un objectif.**
 
-- **Def smoke test : Un test de fumée (Smoke test) consiste en des tests fonctionnels ou unitaires de fonctions logicielles critiques. Les tests de fumée viennent avant d'autres tests approfondis.Un test de fumée répond aux questions comme :**
+- **Def smoke test : Un test de fumée (Smoke test) consiste en des tests fonctionnels ou unitaires de fonctions logicielles critiques. Les tests de fumée viennent avant d'autres tests approfondis. lUn test de fumée répond aux questions comme :**
 
   - Est-ce que le programme démarre correctement ?
   - Est-ce que les boutons de contrôle principaux fonctionnent ?
