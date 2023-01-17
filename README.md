@@ -38,8 +38,8 @@
 
 ### Classification selon l'accessibilité de la structure de l'objet :
 
-- Technique de conception de test par boîte blanche (white box) :
-- Technique de conception de test par boîte noire (black box) :
+- Technique de conception de test par boîte blanche (white box) : cf def
+- Technique de conception de test par boîte noire (black box) : cf def
 
 ### Classification selon la propriété de l'objet :
 
@@ -64,19 +64,20 @@
 
 ---
 
-- Plannification :
-- Analyse et conception des test :
-- Implémentation et éxécution :
-- Évalutation des critères de sortie et communication :
-- Clôture :
+- Plannification
+- Analyse et conception des test
+- Implémentation et éxécution
+- Évalutation des critères de sortie et communication
+- Clôture
 
 ## Outils
 
 - PHP unit/ atoum
-- JavaScript Unit Testing :
+- Tape JS, MochaJS, Jasmine 
 
 ## SOURCES
 
 - https://fr.wikipedia.org/wiki/Test_(informatique)
 - https://mobiskill.fr/blog/conseils-emploi-tech/tests-unitaires-vs-tests-fonctionnels-quelles-differences/
 - https://developer.mozilla.org/fr/docs/Glossary/Smoke_Test
+- https://geekflare.com/javascript-unit-testing/
