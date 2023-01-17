@@ -13,8 +13,8 @@
   **Si cette fonctionnalité de base échoue, il est inutile d'investir du temps dans un travail plus détaillé à ce stade.**
 
 - **Def cas nominal : c'est le cas où tout fonctionne, le cas attendu**
+
 - **Def cas d'erreurs : Le cas où l'on attend une erreur, pour empecher certains résultats**
-- Définition : **Un test est un ensemble de cas à tester (état de l'objet à tester avant exécution du test, actions ou données en entrée, valeurs ou observations attendues, et état de l'objet après exécution), éventuellement accompagné d'une procédure d'exécution (séquence d'actions à exécuter). Il est lié à un objectif.**
 
 - les boîtes blanches : Dans la théorie des systèmes, une boîte blanche (de l'anglais white box), ou boîte transparente, est un module d'un système dont on peut prévoir le fonctionnement interne car on connaît les caractéristiques de fonctionnement de l'ensemble des éléments qui le composent.
 
