@@ -17,7 +17,7 @@
 
 - les boîtes blanches : Dans la théorie des systèmes, une boîte blanche (de l'anglais white box), ou boîte transparente, est un module d'un système dont on peut prévoir le fonctionnement interne car on connaît les caractéristiques de fonctionnement de l'ensemble des éléments qui le composent.
 
-- les boîtes grises : Dans un test en boîte noire, on ignore la structure interne de l'application à tester, tandis que dans un test de boîte blanche on a accès à la structure interne de l'application. Un testeur de boîte grise connaît partiellement la structure interne : il a accès à la documentation des structures de données internes ainsi qu'aux algorithmes utilisés.
+- les boîtes grises : Dans un test en boîte grise, on ignore la structure interne de l'application à tester, tandis que dans un test de boîte blanche on a accès à la structure interne de l'application. Un testeur de boîte grise connaît partiellement la structure interne : il a accès à la documentation des structures de données internes ainsi qu'aux algorithmes utilisés.
 
 - les boîtes noires : Le test de la boîte noire, ou test de la boîte opaque, est utilisé en programmation informatique et en génie logiciel pour tester un programme en vérifiant que les sorties obtenues sont bien celles prévues pour des entrées données.
 
